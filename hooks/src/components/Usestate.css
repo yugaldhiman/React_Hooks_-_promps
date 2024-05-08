@@ -1,0 +1,23 @@
+.center {
+  margin: 200px 500px;
+  align-items: center;
+}
+p {
+  font-size: 25px;
+  font-weight: 400;
+}
+.buttons {
+  padding-left: 30px;
+}
+button {
+  font-size: 18px;
+  font-weight: 300;
+  color: blue;
+  background-color: grey;
+  border-radius: 4px;
+}
+button:hover {
+  cursor: pointer;
+  color: rgb(96, 96, 134);
+  background-color: rgb(211, 203, 203);
+}
